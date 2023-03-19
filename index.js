@@ -18,6 +18,7 @@ correctAnswer.textContent = trueAnswer
 hint.textContent = kanji[no].hint
 
 const pointCount = (no, des, point) => {
+  userAnswer.value = ""
   description.textContent = des
   trueAnswer = trueAnswer + point
   correctAnswer.textContent = trueAnswer
