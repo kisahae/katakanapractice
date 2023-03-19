@@ -192,7 +192,7 @@ export let kanji = [
     answer: "会社員"
   },
   {
-    hint: "Employee (General)/Jugyoin",
+    hint: "Employee (General)/Juugyoin",
     answer: "従業員"
   },
   {
@@ -270,5 +270,9 @@ export let kanji = [
   {
     hint: "10/Juu",
     answer: "十"
+  },
+  {
+    hint: "Yellow/Kiiro",
+    answer: "黄色"
   }
 ]

@@ -7,6 +7,7 @@ const checkButton = document.querySelector("#checkButton")
 const correctAnswer = document.querySelector("#correctAnswer")
 let trueAnswer = 0
 let remainingQuestion = document.querySelector("#remainingQuestion")
+let incorrectQuestion = []
 
 form.addEventListener("submit", (e) => {
   e.preventDefault()
@@ -17,12 +18,27 @@ remainingQuestion.textContent = kanji.length
 correctAnswer.textContent = trueAnswer
 hint.textContent = kanji[no].hint
 
-const pointCount = (no, des, point) => {
+const pointCount = (des, point) => {
   userAnswer.value = ""
   description.textContent = des
-  trueAnswer = trueAnswer + point
+  trueAnswer += point
   correctAnswer.textContent = trueAnswer
-  kanji.splice(no, 1)
+  kanji[no] = kanji[kanji.length - 1]
+  kanji.pop()
+  no = Math.floor(Math.random() * kanji.length)
+  if (kanji.length) {
+    remainingQuestion.textContent = kanji.length
+    hint.textContent = kanji[no].hint
+  } else {
+    remainingQuestion.textContent = kanji.length
+    hint.textContent = "No Question"
+    Swal.fire({
+      title: "No Question",
+      text: "Refresh The Page To Restart",
+      icon: "info",
+      confirmButtonText: "Ok Captain!"
+    })
+  }
 }
 
 checkButton.addEventListener("click", () => {
@@ -33,7 +49,7 @@ checkButton.addEventListener("click", () => {
       icon: "success",
       confirmButtonText: "Keep Going"
     })
-    pointCount(no, "Correct", 1)
+    pointCount("Correct", 1)
   } else {
     Swal.fire({
       title: "Incorrect!",
@@ -41,14 +57,8 @@ checkButton.addEventListener("click", () => {
       icon: "error",
       confirmButtonText: "Ok, I will remember it"
     })
-    pointCount(no, "Incorrect", 0)
-  }
-  no = Math.floor(Math.random() * kanji.length)
-  if (kanji.length) {
-    remainingQuestion.textContent = kanji.length
-    hint.textContent = kanji[no].hint
-  } else {
-    remainingQuestion.textContent = kanji.length
-    hint.textContent = "No Question"
+    incorrectQuestion.push(kanji[no])
+    console.log(incorrectQuestion)
+    pointCount("Incorrect", 0)
   }
 })
