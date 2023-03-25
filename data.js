@@ -274,5 +274,25 @@ export let kanji = [
   {
     hint: "Yellow/Kiiro",
     answer: "黄色"
+  },
+  {
+    hint: "Drink/Nomu",
+    answer: "飲む"
+  },
+  {
+    hint: "Study/Benkyoushimasu",
+    answer: "勉強します"
+  },
+  {
+    hint: "Work/Hatarakimasu",
+    answer: "働きます"
+  },
+  {
+    hint: "Every Morning/Maiasa",
+    answer: "毎朝"
+  },
+  {
+    hint: "Every Night/Maiban",
+    answer: "毎晩"
   }
 ]
