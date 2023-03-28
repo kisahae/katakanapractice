@@ -334,5 +334,17 @@ export let kanji = [
   {
     hint: "Right",
     answer: "右"
+  },
+  {
+    hint: "Left",
+    answer: "左"
+  },
+  {
+    hint: "Bottom",
+    answer: "下"
+  },
+  {
+    hint: "Top",
+    answer: "上"
   }
 ]
