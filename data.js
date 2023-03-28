@@ -346,5 +346,17 @@ export let kanji = [
   {
     hint: "Top",
     answer: "上"
+  },
+  {
+    hint: "Chair",
+    answer: "椅子"
+  },
+  {
+    hint: "Country",
+    answer: "国"
+  },
+  {
+    hint: "Easy",
+    answer: "簡単"
   }
 ]
