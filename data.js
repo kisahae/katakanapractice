@@ -294,5 +294,41 @@ export let kanji = [
   {
     hint: "Every Night/Maiban",
     answer: "毎晩"
+  },
+  {
+    hint: "Today/Kyou",
+    answer: "今日"
+  },
+  {
+    hint: "Yesterday/Kinou",
+    answer: "昨日"
+  },
+  {
+    hint: "Tomorrow/Ashita",
+    answer: "明日"
+  },
+  {
+    hint: "Difficult/Muzukashii",
+    answer: "難しい"
+  },
+  {
+    hint: "Rest/Yasumi",
+    answer: "休み"
+  },
+  {
+    hint: "Yen",
+    answer: "円"
+  },
+  {
+    hint: "Hundred/Hyaku",
+    answer: "百"
+  },
+  {
+    hint: "Thousand/Sen",
+    answer: "千"
+  },
+  {
+    hint: "10 Yen Coin",
+    answer: "十円玉"
   }
 ]
