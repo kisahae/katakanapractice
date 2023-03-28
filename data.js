@@ -40,7 +40,7 @@ export let kanji = [
     answer: "姉"
   },
   {
-    hint: "School/Gakkou",
+    hint: "School",
     answer: "学校"
   },
   {
@@ -48,11 +48,11 @@ export let kanji = [
     answer: "学生"
   },
   {
-    hint: "Classroom/Kyoushitsu",
+    hint: "Classroom",
     answer: "教室"
   },
   {
-    hint: "Canteen/Shokudou",
+    hint: "Canteen",
     answer: "食堂"
   },
   {
@@ -188,7 +188,7 @@ export let kanji = [
     answer: "僕"
   },
   {
-    hint: "Employee (specific office or business)/Kaishain",
+    hint: "Employee (specific office or business)",
     answer: "会社員"
   },
   {
@@ -196,7 +196,7 @@ export let kanji = [
     answer: "従業員"
   },
   {
-    hint: "Teacher (Specific in University/school)/Kyoshi",
+    hint: "Teacher (Specific in University/school)",
     answer: "教師"
   },
   {
@@ -288,31 +288,31 @@ export let kanji = [
     answer: "働きます"
   },
   {
-    hint: "Every Morning/Maiasa",
+    hint: "Every Morning",
     answer: "毎朝"
   },
   {
-    hint: "Every Night/Maiban",
+    hint: "Every Night",
     answer: "毎晩"
   },
   {
-    hint: "Today/Kyou",
+    hint: "Today",
     answer: "今日"
   },
   {
-    hint: "Yesterday/Kinou",
+    hint: "Yesterday",
     answer: "昨日"
   },
   {
-    hint: "Tomorrow/Ashita",
+    hint: "Tomorrow",
     answer: "明日"
   },
   {
-    hint: "Difficult/Muzukashii",
+    hint: "Difficult",
     answer: "難しい"
   },
   {
-    hint: "Rest/Yasumi",
+    hint: "Rest",
     answer: "休み"
   },
   {
@@ -320,15 +320,19 @@ export let kanji = [
     answer: "円"
   },
   {
-    hint: "Hundred/Hyaku",
+    hint: "Hundred",
     answer: "百"
   },
   {
-    hint: "Thousand/Sen",
+    hint: "Thousand",
     answer: "千"
   },
   {
     hint: "10 Yen Coin",
     answer: "十円玉"
+  },
+  {
+    hint: "Right",
+    answer: "右"
   }
 ]
