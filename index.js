@@ -18,7 +18,7 @@ const myFunction = () => {
   for (let wrongValues of incorrectQuestion) {
     text =
       text +
-      `Question: ${wrongValues.hint} <b>Answer: ${wrongValues.answer}</b>` +
+      `Question: ${wrongValues.hint} <b style="color:red">Answer: ${wrongValues.answer}</b>` +
       "<br>"
   }
   return text
