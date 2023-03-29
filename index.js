@@ -8,10 +8,21 @@ const correctAnswer = document.querySelector("#correctAnswer")
 let trueAnswer = 0
 let remainingQuestion = document.querySelector("#remainingQuestion")
 let incorrectQuestion = []
+let text = ""
 
 form.addEventListener("submit", (e) => {
   e.preventDefault()
 })
+
+const myFunction = () => {
+  for (let wrongValues of incorrectQuestion) {
+    text =
+      text +
+      `Question: ${wrongValues.hint} <b>Answer: ${wrongValues.answer}</b>` +
+      "<br>"
+  }
+  return text
+}
 
 let no = Math.floor(Math.random() * kanji.length)
 remainingQuestion.textContent = kanji.length
@@ -33,8 +44,9 @@ const pointCount = (des, point) => {
     remainingQuestion.textContent = kanji.length
     hint.textContent = "No Question"
     Swal.fire({
-      title: "No Question",
-      text: "Refresh The Page To Restart",
+      html: myFunction(),
+      title: "No Question, List of Wrong Answer",
+
       icon: "info",
       confirmButtonText: "Ok Captain!"
     })
