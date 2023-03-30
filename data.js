@@ -1,14 +1,14 @@
 export let kanji = [
   {
-    hint: "Father/Chichi",
+    hint: "Father",
     answer: "父"
   },
   {
-    hint: "Mother/Haha",
+    hint: "Mother",
     answer: "母"
   },
   {
-    hint: "Pluraliing suffix/Tachi",
+    hint: "Pluraliing suffix",
     answer: "達"
   },
   {
@@ -16,27 +16,27 @@ export let kanji = [
     answer: "私"
   },
   {
-    hint: "Daughter/Girl/Musume",
+    hint: "Daughter",
     answer: "娘"
   },
   {
-    hint: "Younger Brother/Otouto",
+    hint: "Younger Brother",
     answer: "弟"
   },
   {
-    hint: "Son/Musuko",
+    hint: "Son",
     answer: "息子"
   },
   {
-    hint: "Younger Sister/Imouto",
+    hint: "Younger Sister",
     answer: "妹"
   },
   {
-    hint: "Older Brother/Nii/Ani",
+    hint: "Older Brother",
     answer: "兄"
   },
   {
-    hint: "Older Sister/Nee/Ane",
+    hint: "Older Sister",
     answer: "姉"
   },
   {
@@ -44,7 +44,7 @@ export let kanji = [
     answer: "学校"
   },
   {
-    hint: "Student/Gakusei",
+    hint: "Student",
     answer: "学生"
   },
   {
@@ -56,131 +56,131 @@ export let kanji = [
     answer: "食堂"
   },
   {
-    hint: "Room/Heya",
+    hint: "Room",
     answer: "部屋"
   },
   {
-    hint: "Jepang/Japan",
+    hint: "Japan",
     answer: "日本"
   },
   {
-    hint: "Buku/Hon",
+    hint: "Buku",
     answer: "本"
   },
   {
-    hint: "Dictionary/Jishou",
+    hint: "Dictionary",
     answer: "辞書"
   },
   {
-    hint: "Clock/Tokei",
+    hint: "Clock",
     answer: "時計"
   },
   {
-    hint: "Car/Jidousha",
+    hint: "Car",
     answer: "自動車"
   },
   {
-    hint: "Newspaper/Shinbun",
+    hint: "Newspaper",
     answer: "新聞"
   },
   {
-    hint: "Vegetable/Yasai",
+    hint: "Vegetable",
     answer: "野菜"
   },
   {
-    hint: "Sake/Sake",
+    hint: "Sake",
     answer: "酒"
   },
   {
-    hint: "Milk/Gyuunyuu",
+    hint: "Milk",
     answer: "牛乳"
   },
   {
-    hint: "Fish/Sakana",
+    hint: "Fish",
     answer: "魚"
   },
   {
-    hint: "Beef/Gyuniku",
+    hint: "Beef",
     answer: "牛肉"
   },
   {
-    hint: "Bird/Tori",
+    hint: "Bird",
     answer: "鳥"
   },
   {
-    hint: "Chicken/Niwatori",
+    hint: "Chicken",
     answer: "鶏"
   },
   {
-    hint: "Sheep/hitsuji",
+    hint: "Sheep",
     answer: "羊"
   },
   {
-    hint: "You/Anata",
+    hint: "You",
     answer: "貴方"
   },
   {
-    hint: "She/Kanojo",
+    hint: "She",
     answer: "彼女"
   },
   {
-    hint: "He/Kare",
+    hint: "He",
     answer: "彼"
   },
   {
-    hint: "Dog/Inu",
+    hint: "Dog",
     answer: "犬"
   },
   {
-    hint: "Cat/Neko",
+    hint: "Cat",
     answer: "猫"
   },
   {
-    hint: "Tea/Cha",
+    hint: "Tea",
     answer: "茶"
   },
   {
-    hint: "Red/Aka",
+    hint: "Red",
     answer: "赤"
   },
   {
-    hint: "Blue/Ao",
+    hint: "Blue",
     answer: "青"
   },
   {
-    hint: "Green/Midori",
+    hint: "Green",
     answer: "緑"
   },
   {
-    hint: "Purple/Murasaki",
+    hint: "Purple",
     answer: "紫"
   },
   {
-    hint: "Black/Kuro",
+    hint: "Black",
     answer: "黒"
   },
   {
-    hint: "White/Shiro",
+    hint: "White",
     answer: "白"
   },
   {
-    hint: "Person/Jin",
+    hint: "Person",
     answer: "人"
   },
   {
-    hint: "Gray/Haiiro",
+    hint: "Gray",
     answer: "灰色"
   },
   {
-    hint: "Toilet/Otearai",
+    hint: "Toilet",
     answer: "お手洗い"
   },
   {
-    hint: "Weather/Tenki",
+    hint: "Weather",
     answer: "天気"
   },
   {
-    hint: "Who/Dare",
+    hint: "Who",
     answer: "誰"
   },
   {
@@ -192,7 +192,7 @@ export let kanji = [
     answer: "会社員"
   },
   {
-    hint: "Employee (General)/Juugyoin",
+    hint: "Employee (General)",
     answer: "従業員"
   },
   {
@@ -200,79 +200,79 @@ export let kanji = [
     answer: "教師"
   },
   {
-    hint: "Teacher (General)/Sensei",
+    hint: "Teacher (General)",
     answer: "先生"
   },
   {
-    hint: "AM/Gozen",
+    hint: "AM",
     answer: "午前"
   },
   {
-    hint: "Home/Ie",
+    hint: "Home",
     answer: "家"
   },
   {
-    hint: "PM/Gogo",
+    hint: "PM",
     answer: "午後"
   },
   {
-    hint: "Stairs/Kaidan",
+    hint: "Stairs",
     answer: "階段"
   },
   {
-    hint: "Everyday/Mainichi",
+    hint: "Everyday",
     answer: "毎日"
   },
   {
-    hint: "Time/Jikan",
+    hint: "Time",
     answer: "時間"
   },
   {
-    hint: "1/Ichi",
+    hint: "1",
     answer: "一"
   },
   {
-    hint: "Now/Ima",
+    hint: "Now",
     answer: "今"
   },
   {
-    hint: "2/Ni",
+    hint: "2",
     answer: "二"
   },
   {
-    hint: "3/San",
+    hint: "3",
     answer: "三"
   },
   {
-    hint: "4/Yon",
+    hint: "4",
     answer: "四"
   },
   {
-    hint: "5/Go",
+    hint: "5",
     answer: "五"
   },
   {
-    hint: "6/Roku",
+    hint: "6",
     answer: "六"
   },
   {
-    hint: "7/Nana",
+    hint: "7",
     answer: "七"
   },
   {
-    hint: "8/Hachi",
+    hint: "8",
     answer: "八"
   },
   {
-    hint: "9/Kyu",
+    hint: "9",
     answer: "九"
   },
   {
-    hint: "10/Juu",
+    hint: "10",
     answer: "十"
   },
   {
-    hint: "Yellow/Kiiro",
+    hint: "Yellow",
     answer: "黄色"
   },
   {
@@ -280,11 +280,11 @@ export let kanji = [
     answer: "飲む"
   },
   {
-    hint: "Study/Benkyoushimasu",
+    hint: "Study (present)",
     answer: "勉強します"
   },
   {
-    hint: "Work/Hatarakimasu",
+    hint: "Work (present)",
     answer: "働きます"
   },
   {
