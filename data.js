@@ -398,5 +398,9 @@ export let kanji = [
   {
     hint: "Happy",
     answer: "幸せ"
+  },
+  {
+    hint: "Telephone",
+    answer: "電話"
   }
 ]
