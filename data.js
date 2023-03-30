@@ -382,5 +382,21 @@ export let kanji = [
   {
     hint: "Year",
     answer: "年"
+  },
+  {
+    hint: "Eye",
+    answer: "目"
+  },
+  {
+    hint: "Ear",
+    answer: "耳"
+  },
+  {
+    hint: "Foot",
+    answer: "足"
+  },
+  {
+    hint: "Happy",
+    answer: "幸せ"
   }
 ]
