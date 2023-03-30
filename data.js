@@ -358,5 +358,29 @@ export let kanji = [
   {
     hint: "Easy",
     answer: "簡単"
+  },
+  {
+    hint: "Wake Up",
+    answer: "起きます"
+  },
+  {
+    hint: "Sleep",
+    answer: "寝ます"
+  },
+  {
+    hint: "Bank",
+    answer: "銀行"
+  },
+  {
+    hint: "Library",
+    answer: "図書館"
+  },
+  {
+    hint: "Noon",
+    answer: "昼"
+  },
+  {
+    hint: "Year",
+    answer: "年"
   }
 ]
