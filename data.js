@@ -402,5 +402,33 @@ export let kanji = [
   {
     hint: "Telephone",
     answer: "電話"
+  },
+  {
+    hint: "Friend",
+    answer: "友達"
+  },
+  {
+    hint: "Temple",
+    answer: "お寺"
+  },
+  {
+    hint: "People (Plural)",
+    answer: "人々"
+  },
+  {
+    hint: "Watch",
+    answer: "見ます"
+  },
+  {
+    hint: "OK",
+    answer: "大丈夫"
+  },
+  {
+    hint: "Create",
+    answer: "作ります"
+  },
+  {
+    hint: "Wash",
+    answer: "洗います"
   }
 ]
