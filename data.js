@@ -430,5 +430,65 @@ export let kanji = [
   {
     hint: "Wash",
     answer: "洗います"
+  },
+  {
+    hint: "Come",
+    answer: "来ます"
+  },
+  {
+    hint: "Go Back",
+    answer: "帰ります"
+  },
+  {
+    hint: "Go",
+    answer: "行きます"
+  },
+  {
+    hint: "Child",
+    answer: "子供"
+  },
+  {
+    hint: "Big",
+    answer: "大きい"
+  },
+  {
+    hint: "In the middle of the park",
+    answer: "公園の中"
+  },
+  {
+    hint: "Siblings",
+    answer: "兄弟"
+  },
+  {
+    hint: "Male",
+    answer: "男"
+  },
+  {
+    hint: "Female",
+    answer: "女"
+  },
+  {
+    hint: "10000",
+    answer: "一万"
+  },
+  {
+    hint: "Name",
+    answer: "名前"
+  },
+  {
+    hint: "Health",
+    answer: "元気"
+  },
+  {
+    hint: "Write",
+    answer: "書きます"
+  },
+  {
+    hint: "Small",
+    answer: "小さい"
+  },
+  {
+    hint: "Rain",
+    answer: "雨"
   }
 ]
