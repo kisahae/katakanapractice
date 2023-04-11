@@ -490,5 +490,61 @@ export let kanji = [
   {
     hint: "Rain",
     answer: "雨"
+  },
+  {
+    hint: "Doubutsu",
+    answer: "動物"
+  },
+  {
+    hint: "Kutsushita",
+    answer: "靴下"
+  },
+  {
+    hint: "Shoes",
+    answer: "靴"
+  },
+  {
+    hint: "Buy",
+    answer: "買います"
+  },
+  {
+    hint: "Clothes",
+    answer: "服"
+  },
+  {
+    hint: "New",
+    answer: "新しい"
+  },
+  {
+    hint: "Old (Things)",
+    answer: "古い"
+  },
+  {
+    hint: "Water",
+    answer: "水"
+  },
+  {
+    hint: "Mouth",
+    answer: "口"
+  },
+  {
+    hint: "Nose",
+    answer: "鼻"
+  },
+  {
+    hint: "To turn",
+    answer: "曲がる"
+  },
+  {
+    hint: "Rice",
+    answer: "ご飯"
+  },
+  {
+    hint: "Expensive",
+    answer: "高い"
+  },
+  {
+    hint: "Cheap",
+    answer: "安い"
   }
 ]
