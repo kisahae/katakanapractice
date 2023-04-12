@@ -492,11 +492,11 @@ export let kanji = [
     answer: "雨"
   },
   {
-    hint: "Doubutsu",
+    hint: "Animal",
     answer: "動物"
   },
   {
-    hint: "Kutsushita",
+    hint: "Socks",
     answer: "靴下"
   },
   {
@@ -546,5 +546,9 @@ export let kanji = [
   {
     hint: "Cheap",
     answer: "安い"
+  },
+  {
+    hint: "Read",
+    answer: "読み"
   }
 ]
