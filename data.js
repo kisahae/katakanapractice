@@ -558,5 +558,13 @@ export let kanji = [
   {
     hint: "Fruit",
     answer: "果物"
+  },
+  {
+    hint: "Building",
+    answer: "建物"
+  },
+  {
+    hint: "Good (for things)",
+    answer: "良い"
   }
 ]
