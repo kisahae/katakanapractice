@@ -566,5 +566,9 @@ export let kanji = [
   {
     hint: "Good (for things)",
     answer: "良い"
+  },
+  {
+    hint: "Pig",
+    answer: "豚"
   }
 ]
