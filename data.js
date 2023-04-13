@@ -554,5 +554,9 @@ export let kanji = [
   {
     hint: "Discharged from hospital",
     answer: "退院"
+  },
+  {
+    hint: "Fruit",
+    answer: "果物"
   }
 ]
