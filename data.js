@@ -570,5 +570,33 @@ export let kanji = [
   {
     hint: "Pig",
     answer: "豚"
+  },
+  {
+    hint: "Hot",
+    answer: "暑い"
+  },
+  {
+    hint: "Holiday",
+    answer: "休日"
+  },
+  {
+    hint: "Shokki",
+    answer: "食器"
+  },
+  {
+    hint: "Cute",
+    answer: "可愛い"
+  },
+  {
+    hint: "Beautiful",
+    answer: "美しい"
+  },
+  {
+    hint: "Hospital",
+    answer: "病院"
+  },
+  {
+    hint: "Meet",
+    answer: "会います"
   }
 ]
