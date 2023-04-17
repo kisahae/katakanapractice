@@ -598,5 +598,25 @@ export let kanji = [
   {
     hint: "Meet",
     answer: "会います"
+  },
+  {
+    hint: "To take shower (followed by object)",
+    answer: "浴びる"
+  },
+  {
+    hint: "Dangerous",
+    answer: "危ない"
+  },
+  {
+    hint: "Give (someone's higher)/Raise/Lift",
+    answer: "上げる"
+  },
+  {
+    hint: "Bright/Light",
+    answer: "明るい"
+  },
+  {
+    hint: "To open",
+    answer: "開ける"
   }
 ]
