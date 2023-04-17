@@ -580,7 +580,7 @@ export let kanji = [
     answer: "休日"
   },
   {
-    hint: "Shokki",
+    hint: "Dishes",
     answer: "食器"
   },
   {
