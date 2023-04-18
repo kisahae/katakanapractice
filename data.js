@@ -618,5 +618,29 @@ export let kanji = [
   {
     hint: "To open",
     answer: "開ける"
+  },
+  {
+    hint: "Hair",
+    answer: "髪"
+  },
+  {
+    hint: "Long",
+    answer: "長い"
+  },
+  {
+    hint: "Leave",
+    answer: "出ます"
+  },
+  {
+    hint: "Moon/Month Prefix",
+    answer: "月"
+  },
+  {
+    hint: "East",
+    answer: "東"
+  },
+  {
+    hint: "Enter",
+    answer: "入る"
   }
 ]
