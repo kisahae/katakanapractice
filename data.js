@@ -642,5 +642,9 @@ export let kanji = [
   {
     hint: "Enter",
     answer: "入る"
+  },
+  {
+    hint: "Mountain",
+    answer: "山"
   }
 ]
