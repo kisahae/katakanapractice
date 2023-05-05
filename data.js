@@ -646,5 +646,29 @@ export let kanji = [
   {
     hint: "Mountain",
     answer: "山"
+  },
+  {
+    hint: "Job",
+    answer: "仕事"
+  },
+  {
+    hint: "Start",
+    answer: "始める"
+  },
+  {
+    hint: "Years Old",
+    answer: "歳"
+  },
+  {
+    hint: "This Year",
+    answer: "今年"
+  },
+  {
+    hint: "Next Year",
+    answer: "来年"
+  },
+  {
+    hint: "Umbrella",
+    answer: "傘"
   }
 ]
