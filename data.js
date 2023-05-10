@@ -682,5 +682,25 @@ export let kanji = [
   {
     hint: "Hear",
     answer: "聞く"
+  },
+  {
+    hint: "Money",
+    answer: "お金"
+  },
+  {
+    hint: "Outside",
+    answer: "外"
+  },
+  {
+    hint: "River",
+    answer: "川"
+  },
+  {
+    hint: "Soil/Ground/Earth",
+    answer: "土"
+  },
+  {
+    hint: "All",
+    answer: "全部"
   }
 ]
