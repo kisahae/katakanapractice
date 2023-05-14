@@ -702,5 +702,37 @@ export let kanji = [
   {
     hint: "All",
     answer: "全部"
+  },
+  {
+    hint: "Horse",
+    answer: "馬"
+  },
+  {
+    hint: "Tiger",
+    answer: "虎"
+  },
+  {
+    hint: "Mouse",
+    answer: "鼠"
+  },
+  {
+    hint: "Rabbit",
+    answer: "兎"
+  },
+  {
+    hint: "Deer",
+    answer: "鹿"
+  },
+  {
+    hint: "Elephant",
+    answer: "象"
+  },
+  {
+    hint: "Bear",
+    answer: "熊"
+  },
+  {
+    hint: "Monkey",
+    answer: "猿"
   }
 ]
