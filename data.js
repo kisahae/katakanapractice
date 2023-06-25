@@ -64,7 +64,7 @@ export let kanji = [
     answer: "日本"
   },
   {
-    hint: "Buku",
+    hint: "Book",
     answer: "本"
   },
   {
