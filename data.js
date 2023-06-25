@@ -76,7 +76,7 @@ export let kanji = [
     answer: "時計"
   },
   {
-    hint: "Car",
+    hint: "Self-Driving-Car",
     answer: "自動車"
   },
   {
@@ -734,5 +734,69 @@ export let kanji = [
   {
     hint: "Monkey",
     answer: "猿"
+  },
+  {
+    hint: "Walk",
+    answer: "歩く"
+  },
+  {
+    hint: "Run",
+    answer: "走る"
+  },
+  {
+    hint: "Same",
+    answer: "同じ"
+  },
+  {
+    hint: "Opinion",
+    answer: "意見"
+  },
+  {
+    hint: "Incident",
+    answer: "出来事"
+  },
+  {
+    hint: "Near",
+    answer: "近く"
+  },
+  {
+    hint: "Store",
+    answer: "店"
+  },
+  {
+    hint: "Book Store",
+    answer: "本屋"
+  },
+  {
+    hint: "Subway",
+    answer: "地下鉄"
+  },
+  {
+    hint: "High Speed Bullet Train",
+    answer: "新幹線"
+  },
+  {
+    hint: "Electric Train",
+    answer: "電車"
+  },
+  {
+    hint: "Borrow (Less Formal)",
+    answer: "貸して"
+  },
+  {
+    hint: "Borrow (Formal)",
+    answer: "お借りします"
+  },
+  {
+    hint: "Power/Strength",
+    answer: "力"
+  },
+  {
+    hint: "Stand",
+    answer: "立っ"
+  },
+  {
+    hint: "Questions",
+    answer: "質問"
   }
 ]
