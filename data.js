@@ -798,5 +798,25 @@ export let kanji = [
   {
     hint: "Questions",
     answer: "質問"
+  },
+  {
+    hint: "Strong",
+    answer: "強い"
+  },
+  {
+    hint: "Weak",
+    answer: "弱い"
+  },
+  {
+    hint: "Take",
+    answer: "取る"
+  },
+  {
+    hint: "Picture",
+    answer: "写真"
+  },
+  {
+    hint: "Song",
+    answer: "歌"
   }
 ]
