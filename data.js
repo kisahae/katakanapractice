@@ -820,7 +820,7 @@ export let kanji = [
     answer: "歌"
   },
   {
-    hint: "Door",
+    hint: "Window",
     answer: "窓"
   },
   {
@@ -838,5 +838,25 @@ export let kanji = [
   {
     hint: "Change",
     answer: "変える"
+  },
+  {
+    hint: "Capital City",
+    answer: "首都"
+  },
+  {
+    hint: "Body",
+    answer: "体"
+  },
+  {
+    hint: "Healthy",
+    answer: "健康"
+  },
+  {
+    hint: "Think",
+    answer: "思"
+  },
+  {
+    hint: "Busy",
+    answer: "忙しい"
   }
 ]
