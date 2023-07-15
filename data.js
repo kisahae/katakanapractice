@@ -858,5 +858,29 @@ export let kanji = [
   {
     hint: "Busy",
     answer: "忙しい"
+  },
+  {
+    hint: "Sit",
+    answer: "座る"
+  },
+  {
+    hint: "The day after tomorrow",
+    answer: "明後日"
+  },
+  {
+    hint: "This Week",
+    answer: "今週"
+  },
+  {
+    hint: "Next Week",
+    answer: "来週"
+  },
+  {
+    hint: "Last Week",
+    answer: "先週"
+  },
+  {
+    hint: "Short",
+    answer: "短い"
   }
 ]
