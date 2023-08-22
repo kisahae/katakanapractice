@@ -1,886 +1,186 @@
 export let kanji = [
   {
-    hint: "Father",
-    answer: "父"
+    hint: "a",
+    answer: "あ"
   },
   {
-    hint: "Mother",
-    answer: "母"
+    hint: "i",
+    answer: "い"
   },
   {
-    hint: "Pluraliing suffix",
-    answer: "達"
+    hint: "u",
+    answer: "う"
   },
   {
-    hint: "I, me/Watashi",
-    answer: "私"
+    hint: "e",
+    answer: "え"
   },
   {
-    hint: "Daughter",
-    answer: "娘"
+    hint: "o",
+    answer: "お"
   },
   {
-    hint: "Younger Brother",
-    answer: "弟"
+    hint: "ha",
+    answer: "は"
   },
   {
-    hint: "Son",
-    answer: "息子"
+    hint: "hi",
+    answer: "ひ"
   },
   {
-    hint: "Younger Sister",
-    answer: "妹"
+    hint: "fu",
+    answer: "ふ"
   },
   {
-    hint: "Older Brother",
-    answer: "兄"
+    hint: "he",
+    answer: "へ"
   },
   {
-    hint: "Older Sister",
-    answer: "姉"
+    hint: "ho",
+    answer: "ほ"
   },
   {
-    hint: "School",
-    answer: "学校"
+    hint: "ka",
+    answer: "か"
   },
   {
-    hint: "Student",
-    answer: "学生"
+    hint: "ki",
+    answer: "き"
   },
   {
-    hint: "Classroom",
-    answer: "教室"
+    hint: "ku",
+    answer: "く"
   },
   {
-    hint: "Canteen",
-    answer: "食堂"
+    hint: "ke",
+    answer: "け"
   },
   {
-    hint: "Room",
-    answer: "部屋"
+    hint: "ko",
+    answer: "こ"
   },
   {
-    hint: "Japan",
-    answer: "日本"
+    hint: "sa",
+    answer: "さ"
   },
   {
-    hint: "Book",
-    answer: "本"
+    hint: "shi",
+    answer: "し"
   },
   {
-    hint: "Dictionary",
-    answer: "辞書"
+    hint: "su",
+    answer: "す"
   },
   {
-    hint: "Clock",
-    answer: "時計"
+    hint: "se",
+    answer: "せ"
   },
   {
-    hint: "Self-Driving-Car",
-    answer: "自動車"
+    hint: "so",
+    answer: "そ"
   },
   {
-    hint: "Newspaper",
-    answer: "新聞"
+    hint: "ta",
+    answer: "た"
   },
   {
-    hint: "Vegetable",
-    answer: "野菜"
+    hint: "chi",
+    answer: "ち"
   },
   {
-    hint: "Sake",
-    answer: "酒"
+    hint: "tsu",
+    answer: "つ"
   },
   {
-    hint: "Milk",
-    answer: "牛乳"
+    hint: "te",
+    answer: "て"
   },
   {
-    hint: "Fish",
-    answer: "魚"
+    hint: "to",
+    answer: "と"
   },
   {
-    hint: "Beef",
-    answer: "牛肉"
+    hint: "na",
+    answer: "な"
   },
   {
-    hint: "Bird",
-    answer: "鳥"
+    hint: "ni",
+    answer: "に"
   },
   {
-    hint: "Chicken",
-    answer: "鶏"
+    hint: "nu",
+    answer: "ぬ"
   },
   {
-    hint: "Sheep",
-    answer: "羊"
+    hint: "ne",
+    answer: "ね"
   },
   {
-    hint: "You",
-    answer: "貴方"
+    hint: "no",
+    answer: "の"
   },
   {
-    hint: "She",
-    answer: "彼女"
+    hint: "ma",
+    answer: "ま"
   },
   {
-    hint: "He",
-    answer: "彼"
+    hint: "mi",
+    answer: "み"
   },
   {
-    hint: "Dog",
-    answer: "犬"
+    hint: "mu",
+    answer: "む"
   },
   {
-    hint: "Cat",
-    answer: "猫"
+    hint: "me",
+    answer: "め"
   },
   {
-    hint: "Tea",
-    answer: "茶"
+    hint: "mo",
+    answer: "も"
   },
   {
-    hint: "Red",
-    answer: "赤"
+    hint: "ra",
+    answer: "ら"
   },
   {
-    hint: "Blue",
-    answer: "青"
+    hint: "ri",
+    answer: "り"
   },
   {
-    hint: "Green",
-    answer: "緑"
+    hint: "ru",
+    answer: "る"
   },
   {
-    hint: "Purple",
-    answer: "紫"
+    hint: "re",
+    answer: "れ"
   },
   {
-    hint: "Black",
-    answer: "黒"
+    hint: "ro",
+    answer: "ろ"
   },
   {
-    hint: "White",
-    answer: "白"
+    hint: "ya",
+    answer: "や"
   },
   {
-    hint: "Person",
-    answer: "人"
+    hint: "yu",
+    answer: "ゆ"
   },
   {
-    hint: "Gray",
-    answer: "灰色"
+    hint: "yo",
+    answer: "よ"
   },
   {
-    hint: "Toilet",
-    answer: "お手洗い"
+    hint: "wa",
+    answer: "わ"
   },
   {
-    hint: "Weather",
-    answer: "天気"
+    hint: "wo",
+    answer: "を"
   },
   {
-    hint: "Who",
-    answer: "誰"
+    hint: "n",
+    answer: "ん"
   },
-  {
-    hint: "I/Boku",
-    answer: "僕"
-  },
-  {
-    hint: "Employee (specific office or business)",
-    answer: "会社員"
-  },
-  {
-    hint: "Employee (General)",
-    answer: "従業員"
-  },
-  {
-    hint: "Teacher (Specific in University/school)",
-    answer: "教師"
-  },
-  {
-    hint: "Teacher (General)",
-    answer: "先生"
-  },
-  {
-    hint: "AM",
-    answer: "午前"
-  },
-  {
-    hint: "Home",
-    answer: "家"
-  },
-  {
-    hint: "PM",
-    answer: "午後"
-  },
-  {
-    hint: "Stairs",
-    answer: "階段"
-  },
-  {
-    hint: "Everyday",
-    answer: "毎日"
-  },
-  {
-    hint: "Time",
-    answer: "時間"
-  },
-  {
-    hint: "1",
-    answer: "一"
-  },
-  {
-    hint: "Now",
-    answer: "今"
-  },
-  {
-    hint: "2",
-    answer: "二"
-  },
-  {
-    hint: "3",
-    answer: "三"
-  },
-  {
-    hint: "4",
-    answer: "四"
-  },
-  {
-    hint: "5",
-    answer: "五"
-  },
-  {
-    hint: "6",
-    answer: "六"
-  },
-  {
-    hint: "7",
-    answer: "七"
-  },
-  {
-    hint: "8",
-    answer: "八"
-  },
-  {
-    hint: "9",
-    answer: "九"
-  },
-  {
-    hint: "10",
-    answer: "十"
-  },
-  {
-    hint: "Yellow",
-    answer: "黄色"
-  },
-  {
-    hint: "Drink/Nomu",
-    answer: "飲む"
-  },
-  {
-    hint: "Study (present)",
-    answer: "勉強します"
-  },
-  {
-    hint: "Work (present)",
-    answer: "働きます"
-  },
-  {
-    hint: "Every Morning",
-    answer: "毎朝"
-  },
-  {
-    hint: "Every Night",
-    answer: "毎晩"
-  },
-  {
-    hint: "Today",
-    answer: "今日"
-  },
-  {
-    hint: "Yesterday",
-    answer: "昨日"
-  },
-  {
-    hint: "Tomorrow",
-    answer: "明日"
-  },
-  {
-    hint: "Difficult",
-    answer: "難しい"
-  },
-  {
-    hint: "Rest",
-    answer: "休み"
-  },
-  {
-    hint: "Yen",
-    answer: "円"
-  },
-  {
-    hint: "Hundred",
-    answer: "百"
-  },
-  {
-    hint: "Thousand",
-    answer: "千"
-  },
-  {
-    hint: "10 Yen Coin",
-    answer: "十円玉"
-  },
-  {
-    hint: "Right",
-    answer: "右"
-  },
-  {
-    hint: "Left",
-    answer: "左"
-  },
-  {
-    hint: "Bottom",
-    answer: "下"
-  },
-  {
-    hint: "Top",
-    answer: "上"
-  },
-  {
-    hint: "Chair",
-    answer: "椅子"
-  },
-  {
-    hint: "Country",
-    answer: "国"
-  },
-  {
-    hint: "Easy",
-    answer: "簡単"
-  },
-  {
-    hint: "Wake Up",
-    answer: "起きます"
-  },
-  {
-    hint: "Sleep",
-    answer: "寝ます"
-  },
-  {
-    hint: "Bank",
-    answer: "銀行"
-  },
-  {
-    hint: "Library",
-    answer: "図書館"
-  },
-  {
-    hint: "Noon",
-    answer: "昼"
-  },
-  {
-    hint: "Year",
-    answer: "年"
-  },
-  {
-    hint: "Eye",
-    answer: "目"
-  },
-  {
-    hint: "Ear",
-    answer: "耳"
-  },
-  {
-    hint: "Foot",
-    answer: "足"
-  },
-  {
-    hint: "Happy",
-    answer: "幸せ"
-  },
-  {
-    hint: "Telephone",
-    answer: "電話"
-  },
-  {
-    hint: "Friend",
-    answer: "友達"
-  },
-  {
-    hint: "Temple",
-    answer: "お寺"
-  },
-  {
-    hint: "People (Plural)",
-    answer: "人々"
-  },
-  {
-    hint: "Watch",
-    answer: "見ます"
-  },
-  {
-    hint: "OK",
-    answer: "大丈夫"
-  },
-  {
-    hint: "Create",
-    answer: "作ります"
-  },
-  {
-    hint: "Wash",
-    answer: "洗います"
-  },
-  {
-    hint: "Come",
-    answer: "来ます"
-  },
-  {
-    hint: "Go Back",
-    answer: "帰ります"
-  },
-  {
-    hint: "Go",
-    answer: "行きます"
-  },
-  {
-    hint: "Child",
-    answer: "子供"
-  },
-  {
-    hint: "Big",
-    answer: "大きい"
-  },
-  {
-    hint: "In the middle of the park",
-    answer: "公園の中"
-  },
-  {
-    hint: "Siblings",
-    answer: "兄弟"
-  },
-  {
-    hint: "Male",
-    answer: "男"
-  },
-  {
-    hint: "Female",
-    answer: "女"
-  },
-  {
-    hint: "10000",
-    answer: "一万"
-  },
-  {
-    hint: "Name",
-    answer: "名前"
-  },
-  {
-    hint: "Health",
-    answer: "元気"
-  },
-  {
-    hint: "Write",
-    answer: "書きます"
-  },
-  {
-    hint: "Small",
-    answer: "小さい"
-  },
-  {
-    hint: "Rain",
-    answer: "雨"
-  },
-  {
-    hint: "Animal",
-    answer: "動物"
-  },
-  {
-    hint: "Socks",
-    answer: "靴下"
-  },
-  {
-    hint: "Shoes",
-    answer: "靴"
-  },
-  {
-    hint: "Buy",
-    answer: "買います"
-  },
-  {
-    hint: "Clothes",
-    answer: "服"
-  },
-  {
-    hint: "New",
-    answer: "新しい"
-  },
-  {
-    hint: "Old (Things)",
-    answer: "古い"
-  },
-  {
-    hint: "Water",
-    answer: "水"
-  },
-  {
-    hint: "Mouth",
-    answer: "口"
-  },
-  {
-    hint: "Nose",
-    answer: "鼻"
-  },
-  {
-    hint: "To turn",
-    answer: "曲がる"
-  },
-  {
-    hint: "Rice",
-    answer: "ご飯"
-  },
-  {
-    hint: "Expensive",
-    answer: "高い"
-  },
-  {
-    hint: "Cheap",
-    answer: "安い"
-  },
-  {
-    hint: "Read",
-    answer: "読み"
-  },
-  {
-    hint: "Discharged from hospital",
-    answer: "退院"
-  },
-  {
-    hint: "Fruit",
-    answer: "果物"
-  },
-  {
-    hint: "Building",
-    answer: "建物"
-  },
-  {
-    hint: "Good (for things)",
-    answer: "良い"
-  },
-  {
-    hint: "Pig",
-    answer: "豚"
-  },
-  {
-    hint: "Hot",
-    answer: "暑い"
-  },
-  {
-    hint: "Holiday",
-    answer: "休日"
-  },
-  {
-    hint: "Dishes",
-    answer: "食器"
-  },
-  {
-    hint: "Cute",
-    answer: "可愛い"
-  },
-  {
-    hint: "Beautiful",
-    answer: "美しい"
-  },
-  {
-    hint: "Hospital",
-    answer: "病院"
-  },
-  {
-    hint: "Meet",
-    answer: "会います"
-  },
-  {
-    hint: "To take shower (followed by object)",
-    answer: "浴びる"
-  },
-  {
-    hint: "Dangerous",
-    answer: "危ない"
-  },
-  {
-    hint: "Give (someone's higher)/Raise/Lift",
-    answer: "上げる"
-  },
-  {
-    hint: "Bright/Light",
-    answer: "明るい"
-  },
-  {
-    hint: "To open",
-    answer: "開ける"
-  },
-  {
-    hint: "Hair",
-    answer: "髪"
-  },
-  {
-    hint: "Long",
-    answer: "長い"
-  },
-  {
-    hint: "Leave",
-    answer: "出ます"
-  },
-  {
-    hint: "Moon/Month Prefix",
-    answer: "月"
-  },
-  {
-    hint: "East",
-    answer: "東"
-  },
-  {
-    hint: "Enter",
-    answer: "入る"
-  },
-  {
-    hint: "Mountain",
-    answer: "山"
-  },
-  {
-    hint: "Job",
-    answer: "仕事"
-  },
-  {
-    hint: "Start",
-    answer: "始める"
-  },
-  {
-    hint: "Years Old",
-    answer: "歳"
-  },
-  {
-    hint: "This Year",
-    answer: "今年"
-  },
-  {
-    hint: "Next Year",
-    answer: "来年"
-  },
-  {
-    hint: "Umbrella",
-    answer: "傘"
-  },
-  {
-    hint: "Last Year",
-    answer: "去年"
-  },
-  {
-    hint: "Speak",
-    answer: "話す"
-  },
-  {
-    hint: "Hear",
-    answer: "聞く"
-  },
-  {
-    hint: "Money",
-    answer: "お金"
-  },
-  {
-    hint: "Outside",
-    answer: "外"
-  },
-  {
-    hint: "River",
-    answer: "川"
-  },
-  {
-    hint: "Soil/Ground/Earth",
-    answer: "土"
-  },
-  {
-    hint: "All",
-    answer: "全部"
-  },
-  {
-    hint: "Horse",
-    answer: "馬"
-  },
-  {
-    hint: "Tiger",
-    answer: "虎"
-  },
-  {
-    hint: "Mouse",
-    answer: "鼠"
-  },
-  {
-    hint: "Rabbit",
-    answer: "兎"
-  },
-  {
-    hint: "Deer",
-    answer: "鹿"
-  },
-  {
-    hint: "Elephant",
-    answer: "象"
-  },
-  {
-    hint: "Bear",
-    answer: "熊"
-  },
-  {
-    hint: "Monkey",
-    answer: "猿"
-  },
-  {
-    hint: "Walk",
-    answer: "歩く"
-  },
-  {
-    hint: "Run",
-    answer: "走る"
-  },
-  {
-    hint: "Same",
-    answer: "同じ"
-  },
-  {
-    hint: "Opinion",
-    answer: "意見"
-  },
-  {
-    hint: "Incident",
-    answer: "出来事"
-  },
-  {
-    hint: "Near",
-    answer: "近く"
-  },
-  {
-    hint: "Store",
-    answer: "店"
-  },
-  {
-    hint: "Book Store",
-    answer: "本屋"
-  },
-  {
-    hint: "Subway",
-    answer: "地下鉄"
-  },
-  {
-    hint: "High Speed Bullet Train",
-    answer: "新幹線"
-  },
-  {
-    hint: "Electric Train",
-    answer: "電車"
-  },
-  {
-    hint: "Borrow (Less Formal)",
-    answer: "貸して"
-  },
-  {
-    hint: "Borrow (Formal)",
-    answer: "お借りします"
-  },
-  {
-    hint: "Power/Strength",
-    answer: "力"
-  },
-  {
-    hint: "Stand",
-    answer: "立っ"
-  },
-  {
-    hint: "Questions",
-    answer: "質問"
-  },
-  {
-    hint: "Strong",
-    answer: "強い"
-  },
-  {
-    hint: "Weak",
-    answer: "弱い"
-  },
-  {
-    hint: "Take",
-    answer: "取る"
-  },
-  {
-    hint: "Picture",
-    answer: "写真"
-  },
-  {
-    hint: "Song",
-    answer: "歌"
-  },
-  {
-    hint: "Window",
-    answer: "窓"
-  },
-  {
-    hint: "Secret",
-    answer: "秘密"
-  },
-  {
-    hint: "Help",
-    answer: "助けて"
-  },
-  {
-    hint: "Location",
-    answer: "場所"
-  },
-  {
-    hint: "Change",
-    answer: "変える"
-  },
-  {
-    hint: "Capital City",
-    answer: "首都"
-  },
-  {
-    hint: "Body",
-    answer: "体"
-  },
-  {
-    hint: "Healthy",
-    answer: "健康"
-  },
-  {
-    hint: "Think",
-    answer: "思"
-  },
-  {
-    hint: "Busy",
-    answer: "忙しい"
-  },
-  {
-    hint: "Sit",
-    answer: "座る"
-  },
-  {
-    hint: "The day after tomorrow",
-    answer: "明後日"
-  },
-  {
-    hint: "This Week",
-    answer: "今週"
-  },
-  {
-    hint: "Next Week",
-    answer: "来週"
-  },
-  {
-    hint: "Last Week",
-    answer: "先週"
-  },
-  {
-    hint: "Short",
-    answer: "短い"
-  }
 ]
