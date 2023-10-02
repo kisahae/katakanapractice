@@ -1,186 +1,186 @@
 export let kanji = [
   {
     hint: "a",
-    answer: "あ"
+    answer: "ア"
   },
   {
     hint: "i",
-    answer: "い"
+    answer: "イ"
   },
   {
     hint: "u",
-    answer: "う"
+    answer: "ウ"
   },
   {
     hint: "e",
-    answer: "え"
+    answer: "エ"
   },
   {
     hint: "o",
-    answer: "お"
+    answer: "オ"
   },
   {
     hint: "ha",
-    answer: "は"
+    answer: "ハ"
   },
   {
     hint: "hi",
-    answer: "ひ"
+    answer: "ヒ"
   },
   {
     hint: "fu",
-    answer: "ふ"
+    answer: "フ"
   },
   {
     hint: "he",
-    answer: "へ"
+    answer: "ヘ"
   },
   {
     hint: "ho",
-    answer: "ほ"
+    answer: "ホ"
   },
   {
     hint: "ka",
-    answer: "か"
+    answer: "カ"
   },
   {
     hint: "ki",
-    answer: "き"
+    answer: "キ"
   },
   {
     hint: "ku",
-    answer: "く"
+    answer: "ク"
   },
   {
     hint: "ke",
-    answer: "け"
+    answer: "ケ"
   },
   {
     hint: "ko",
-    answer: "こ"
+    answer: "コ"
   },
   {
     hint: "sa",
-    answer: "さ"
+    answer: "サ"
   },
   {
     hint: "shi",
-    answer: "し"
+    answer: "シ"
   },
   {
     hint: "su",
-    answer: "す"
+    answer: "ス"
   },
   {
     hint: "se",
-    answer: "せ"
+    answer: "セ"
   },
   {
     hint: "so",
-    answer: "そ"
+    answer: "ソ"
   },
   {
     hint: "ta",
-    answer: "た"
+    answer: "タ"
   },
   {
     hint: "chi",
-    answer: "ち"
+    answer: "チ"
   },
   {
     hint: "tsu",
-    answer: "つ"
+    answer: "ツ"
   },
   {
     hint: "te",
-    answer: "て"
+    answer: "テ"
   },
   {
     hint: "to",
-    answer: "と"
+    answer: "ト"
   },
   {
     hint: "na",
-    answer: "な"
+    answer: "ナ"
   },
   {
     hint: "ni",
-    answer: "に"
+    answer: "ニ"
   },
   {
     hint: "nu",
-    answer: "ぬ"
+    answer: "ヌ"
   },
   {
     hint: "ne",
-    answer: "ね"
+    answer: "ネ"
   },
   {
     hint: "no",
-    answer: "の"
+    answer: "ノ"
   },
   {
     hint: "ma",
-    answer: "ま"
+    answer: "マ"
   },
   {
     hint: "mi",
-    answer: "み"
+    answer: "ミ"
   },
   {
     hint: "mu",
-    answer: "む"
+    answer: "ム"
   },
   {
     hint: "me",
-    answer: "め"
+    answer: "メ"
   },
   {
     hint: "mo",
-    answer: "も"
+    answer: "モ"
   },
   {
     hint: "ra",
-    answer: "ら"
+    answer: "ラ"
   },
   {
     hint: "ri",
-    answer: "り"
+    answer: "リ"
   },
   {
     hint: "ru",
-    answer: "る"
+    answer: "ル"
   },
   {
     hint: "re",
-    answer: "れ"
+    answer: "レ"
   },
   {
     hint: "ro",
-    answer: "ろ"
+    answer: "ロ"
   },
   {
     hint: "ya",
-    answer: "や"
+    answer: "ヤ"
   },
   {
     hint: "yu",
-    answer: "ゆ"
+    answer: "ユ"
   },
   {
     hint: "yo",
-    answer: "よ"
+    answer: "ヨ"
   },
   {
     hint: "wa",
-    answer: "わ"
+    answer: "ワ"
   },
   {
     hint: "wo",
-    answer: "を"
+    answer: "ヲ"
   },
   {
     hint: "n",
-    answer: "ん"
+    answer: "ン"
   },
 ]
